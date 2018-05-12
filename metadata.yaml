@@ -1,0 +1,26 @@
+_repo: Paginas-ArcheologicasIII---Situa--o-conjectural-de-Talabriga_30071
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Pereira, Félix Alves
+    alias: Pereira, Felix Alves
+    birthdate: 1865
+    deathdate: 1936
+    gutenberg_agent_id: '34351'
+    url: http://www.gutenberg.org/2009/agents/34351
+description: ''
+gutenberg_issued: '2009-09-23'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '30071'
+language: pt
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+title: 'Paginas Archeologicas
+
+  III - Situação conjectural de Talabriga'
+url: http://www.gutenberg.org/ebooks/30071
