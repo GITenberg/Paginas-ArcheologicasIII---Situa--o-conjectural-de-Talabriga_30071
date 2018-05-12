@@ -12,6 +12,8 @@ creator:
     gutenberg_agent_id: '34351'
     url: http://www.gutenberg.org/2009/agents/34351
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/30071#Paginas-ArcheologicasIII---Situa--o-conjectural-de-Talabriga
 gutenberg_issued: '2009-09-23'
 gutenberg_type: Text
 identifiers:
